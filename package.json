@@ -4,7 +4,10 @@
   "description": "Express Works Free Code Camp exercises",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.13.4"
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "stylus": "^0.54.2"
   },
   "devDependencies": {},
   "scripts": {
